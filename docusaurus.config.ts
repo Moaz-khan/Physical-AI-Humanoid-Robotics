@@ -15,7 +15,7 @@ const config: Config = {
   url: "https://moaz-khan.github.io",
 
   // 🔥 Repo name as base URL
-  baseUrl: "/Physical-AI-Humanoid-Robotics/",
+  baseUrl: "/",
 
   // 🔥 GitHub repo config
   organizationName: "Moaz-khan",
